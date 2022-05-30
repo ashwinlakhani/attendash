@@ -7,7 +7,7 @@ It uses the application of Facial Recognition to mark your attendance using 2 st
 
 ## Table of contents
 
-- [Technology Stack used:](#Technology-Stack-used:)
+- [Technology Stack used-](#Technology-Stack-used-)
 - [How has it been built?](#How-has-it-been-built)
 - [Features of the Application](#Features-of-the-Application)
 - [How to run this web application?](#How-to-run-this-web-application?)
@@ -15,7 +15,7 @@ It uses the application of Facial Recognition to mark your attendance using 2 st
 - [Installation](#installation)
 - [Running the Application](#Running-the-Application)
 
-## Technology Stack used:
+## Technology Stack used-
 
 <div>
       <p align ="left">
