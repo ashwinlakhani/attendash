@@ -5,6 +5,8 @@ It uses the application of Facial Recognition to mark your attendance using 2 st
 
 [Visit the web application](https://attendash.netlify.app/)
 
+[Have a peek at my supporting resources (PPT, Video) for further information](https://drive.google.com/drive/u/0/folders/1YY7_CMNfC4SXOkFWs81Cj39oJmAhDVom)
+
 ## Table of contents
 
 - [Technology Stack used-](#Technology-Stack-used-)
@@ -45,7 +47,7 @@ There is a total of 8 required weight files with the respective metadata file re
 
 ## Features of the Application
 
-### <img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-email-cyber-security-kiranshastry-solid-kiranshastry-1.png" width="30px" />&ensp;Register and Login with Email ID and Password
+### <img src="https://cdn4.iconfinder.com/data/icons/pastel-svg-email/16/email_key_security_secure_private_protection_login_lock_authentication_password-512.png" width="30px" />&ensp;Register and Login with Email ID and Password
 
 - User information is saved in the MongoDB Cloud.
 - The password is hashed first and then stored.
@@ -64,7 +66,7 @@ There is a total of 8 required weight files with the respective metadata file re
 
 - Enlists a course that a student could enrol in.
 
-### <img src="https://img.icons8.com/ios/2x/attendance-mark.png" style="float: left" width="30px" />&ensp;Attendance Room
+### <img src="https://icons.iconarchive.com/icons/iconsmind/outline/512/Mail-Password-icon.png" style="float: left" width="30px" />&ensp;Attendance Room
 
 - A lecturer opens the attendance list.
 - Students can mark their attendance using webcam.
